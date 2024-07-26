@@ -13,7 +13,7 @@ Has custom color theme I created which can be used in the python module of custo
 ## User Instructions
 For using this color theme , clone this repo to your project folder and add these lines to your code
 ```
-from customtktinter import set_default_color_theme,set_appearance_mode
+from customtkinter import set_default_color_theme,set_appearance_mode
 
 set_appearance_mode("System") #It can also be changed to "Dark" or "Light"
 set_default_color_theme("op_purple_theme.json")
